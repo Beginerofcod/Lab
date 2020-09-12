@@ -1,0 +1,13 @@
+F:\College Works\6 sem\Net Centric Computing\Works\Lab 2\Multiple of table\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+F:\College Works\6 sem\Net Centric Computing\Works\Lab 2\Multiple of table\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+F:\College Works\6 sem\Net Centric Computing\Works\Lab 2\Multiple of table\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+F:\College Works\6 sem\Net Centric Computing\Works\Lab 2\Multiple of table\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+F:\College Works\6 sem\Net Centric Computing\Works\Lab 2\Multiple of table\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+F:\College Works\6 sem\Net Centric Computing\Works\Lab 2\Multiple of table\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+F:\College Works\6 sem\Net Centric Computing\Works\Lab 2\Multiple of table\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+F:\College Works\6 sem\Net Centric Computing\Works\Lab 2\Multiple of table\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+F:\College Works\6 sem\Net Centric Computing\Works\Lab 2\Multiple of table\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+F:\College Works\6 sem\Net Centric Computing\Works\Lab 2\Multiple of table\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\College Works\6 sem\Net Centric Computing\Works\Lab 2\Multiple of table\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+F:\College Works\6 sem\Net Centric Computing\Works\Lab 2\Multiple of table\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+F:\College Works\6 sem\Net Centric Computing\Works\Lab 2\Multiple of table\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

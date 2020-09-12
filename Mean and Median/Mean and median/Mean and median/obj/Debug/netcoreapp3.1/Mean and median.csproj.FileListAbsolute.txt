@@ -1,0 +1,13 @@
+F:\College Works\6 sem\Net Centric Computing\Works\Lab 2\Mean and Median\Mean and median\Mean and median\bin\Debug\netcoreapp3.1\Mean and median.exe
+F:\College Works\6 sem\Net Centric Computing\Works\Lab 2\Mean and Median\Mean and median\Mean and median\bin\Debug\netcoreapp3.1\Mean and median.deps.json
+F:\College Works\6 sem\Net Centric Computing\Works\Lab 2\Mean and Median\Mean and median\Mean and median\bin\Debug\netcoreapp3.1\Mean and median.runtimeconfig.json
+F:\College Works\6 sem\Net Centric Computing\Works\Lab 2\Mean and Median\Mean and median\Mean and median\bin\Debug\netcoreapp3.1\Mean and median.runtimeconfig.dev.json
+F:\College Works\6 sem\Net Centric Computing\Works\Lab 2\Mean and Median\Mean and median\Mean and median\bin\Debug\netcoreapp3.1\Mean and median.dll
+F:\College Works\6 sem\Net Centric Computing\Works\Lab 2\Mean and Median\Mean and median\Mean and median\bin\Debug\netcoreapp3.1\Mean and median.pdb
+F:\College Works\6 sem\Net Centric Computing\Works\Lab 2\Mean and Median\Mean and median\Mean and median\obj\Debug\netcoreapp3.1\Mean and median.csprojAssemblyReference.cache
+F:\College Works\6 sem\Net Centric Computing\Works\Lab 2\Mean and Median\Mean and median\Mean and median\obj\Debug\netcoreapp3.1\Mean and median.AssemblyInfoInputs.cache
+F:\College Works\6 sem\Net Centric Computing\Works\Lab 2\Mean and Median\Mean and median\Mean and median\obj\Debug\netcoreapp3.1\Mean and median.AssemblyInfo.cs
+F:\College Works\6 sem\Net Centric Computing\Works\Lab 2\Mean and Median\Mean and median\Mean and median\obj\Debug\netcoreapp3.1\Mean and median.csproj.CoreCompileInputs.cache
+F:\College Works\6 sem\Net Centric Computing\Works\Lab 2\Mean and Median\Mean and median\Mean and median\obj\Debug\netcoreapp3.1\Mean and median.dll
+F:\College Works\6 sem\Net Centric Computing\Works\Lab 2\Mean and Median\Mean and median\Mean and median\obj\Debug\netcoreapp3.1\Mean and median.pdb
+F:\College Works\6 sem\Net Centric Computing\Works\Lab 2\Mean and Median\Mean and median\Mean and median\obj\Debug\netcoreapp3.1\Mean and median.genruntimeconfig.cache
